@@ -1,0 +1,180 @@
+.root {
+  background: #fff;
+  height: auto;
+  width: 100%;
+  min-height: 100vh;
+  max-height: unset;
+  position: static;
+  margin: 0 auto;
+}
+
+.timeline {
+  position: absolute;
+  z-index: 0;
+  top: 115px;
+  left: 957px;
+  right: unset;
+  width: 216px;
+}
+
+.text7 {
+}
+
+.screenshot20230922At124757Pm {
+  background: url('https://assets.kubi.design/f3eb6632-4940-4630-a7d4-91379adb802c/c7392780-bdd0-423c-b1f0-29f2e1e5bb28.png')
+    50% 50% / contain no-repeat;
+  position: absolute;
+  z-index: 0;
+  top: 101px;
+  left: 269px;
+  right: unset;
+  height: 294px;
+  width: 384px;
+}
+
+.bar {
+  position: absolute;
+  z-index: 0;
+  top: 532px;
+  left: 276px;
+  right: unset;
+  height: 209px;
+  width: 400px;
+}
+
+.slider1 {
+  position: absolute;
+  z-index: 0;
+  top: 420px;
+  left: 36px;
+  right: unset;
+  height: 34px;
+  width: 199px;
+}
+
+.line {
+  position: absolute;
+  z-index: 0;
+  top: 549px;
+  left: 734px;
+  right: unset;
+  height: 204px;
+  width: 410px;
+}
+
+.multiSelect1 {
+  position: absolute;
+  z-index: 0;
+  top: 182px;
+  left: 32px;
+  right: unset;
+}
+
+.slider {
+  position: absolute;
+  z-index: 0;
+  top: 312px;
+  left: 32px;
+  right: unset;
+  height: 16px;
+  width: 200px;
+}
+
+.text6 {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 15px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  z-index: 0;
+  top: 272px;
+  left: 32px;
+  right: unset;
+}
+
+.text5 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  z-index: 0;
+  top: 50px;
+  left: 272px;
+  right: unset;
+}
+
+.text4 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  z-index: 0;
+  top: 48px;
+  left: 690px;
+  right: unset;
+}
+
+.text3 {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  z-index: 0;
+  top: 481px;
+  left: 742px;
+  right: unset;
+}
+
+.text2 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  z-index: 0;
+  top: 494px;
+  left: 284px;
+  right: unset;
+}
+
+.text1 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  z-index: 0;
+  top: 50px;
+  left: 957px;
+  right: unset;
+}
+
+.text {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  z-index: 0;
+  top: 50px;
+  left: 32px;
+  right: unset;
+}
+
+.multiSelect {
+  position: absolute;
+  z-index: 0;
+  top: 106px;
+  left: 32px;
+  right: unset;
+}
